@@ -17,7 +17,7 @@ Esse é o portfólio referente ao 3° ano do ensino médio.
 
 ### Diagrama de Atividades
 
-Essa atividade foi escolhida para o portfólio pela questão de ser uma atividade com perguntas de fixação do conteúdo de sistemas operacionais, que me ajudou a fixar mais sobre.
+Essa atividade foi escolhida para o portfólio, pois achei bem legal de fazer e importante para conseguirmos desenvolver um diagrama de atividades, e fiz uma que descrevesse um sistema sobre o Ifood.
 
 [CLIQUE AQUI](Modelagem_de_Sistemas/Diagrama_de_Atividades.pdf)
 
@@ -25,7 +25,7 @@ Essa atividade foi escolhida para o portfólio pela questão de ser uma atividad
 
 ### Especificação de Casos te Teste
 
-Escolhi essa atividade para colocar por ser tranquila de fazer e porque achei bem interessante usar a harmonia das cores.
+Escolhi essa atividade, pois foi tranquila de fazer, tivemos que elaborar uma especificação de casos te Teste para o app que criamos.
 
 [CLIQUE AQUI](/Teste_de_Sistemas/Especificação_de_Casos_te_Teste.pdf)
 

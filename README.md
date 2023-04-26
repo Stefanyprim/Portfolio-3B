@@ -35,7 +35,7 @@ Escolhi essa atividade para colocar por ser tranquila de fazer e porque achei be
 
 Coloquei essa atividade por ser interessante fazer sobre PA, que era o que estávamos aprendendo em matemática.
 
-[CLIQUE AQUI](Atividade_serail.png)
+[CLIQUE AQUI](Atividade_serial.png)
 
 ## Atividade de Programação de Aplicativos
 

@@ -27,7 +27,7 @@ Essa atividade foi escolhida para o portfólio pela questão de ser uma atividad
 
 Escolhi essa atividade para colocar por ser tranquila de fazer e porque achei bem interessante usar a harmonia das cores.
 
-[CLIQUE AQUI](/Teste_de_Sistemas/Especificação_De_Casos_te_Teste.pdf)
+[CLIQUE AQUI](/Teste_de_Sistemas/Especificação_De_Casos_de_Teste.pdf)
 
 ## Atividades de Banco de Dados
 

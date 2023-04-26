@@ -27,7 +27,7 @@ Essa atividade foi escolhida para o portfólio pela questão de ser uma atividad
 
 Escolhi essa atividade para colocar por ser tranquila de fazer e porque achei bem interessante usar a harmonia das cores.
 
-[CLIQUE AQUI](
+[CLIQUE AQUI](ESpecificação_De_Casos_te_Teste.pdf)
 
 ## Atividades de Banco de Dados
 
@@ -43,4 +43,4 @@ Coloquei essa atividade por ser interessante fazer sobre PA, que era o que está
 
 Escolhi colocar essa atividade porque acho bem interessante como funciona esses códigos.
 
-[CLIQUE AQUI](
+[CLIQUE AQUI](Calculadora_de_Horas(1).pdf)

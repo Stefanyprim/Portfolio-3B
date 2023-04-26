@@ -36,6 +36,7 @@ Escolhi essa atividade para colocar por ser tranquila de fazer e porque achei be
 Coloquei essa atividade por ser interessante fazer sobre PA, que era o que estávamos aprendendo em matemática.
 
 [CLIQUE AQUI](/Banco_de_Dados/Atividade_serial.png)
+[CLIQUE AQUI](/Banco_de_Dados/SQLite_(5)_(1).sql)
 
 ## Atividade de Programação de Aplicativos
 

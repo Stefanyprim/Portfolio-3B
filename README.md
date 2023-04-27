@@ -33,7 +33,7 @@ Escolhi essa atividade, pois foi tranquila de fazer, tivemos que elaborar uma es
 
 ### Atividade Atividade Serial
 
-Coloquei essa atividade por ser interessante fazer sobre PA, que era o que estávamos aprendendo em matemática.
+Coloquei essa atividade por ser bem interessante de fazer, então, realizamos o diagrama E-R referente ao banco de dados necessário e o código SQL. Inserimos dados em todas as tabelas, e usamos pelo menos um atributo do tipo serial. Por isso foi bem importante, para conseguirmos entender como usamos o atributo Serial.
 
 [CLIQUE AQUI](/Banco_de_Dados/Atividade_serial.png)
 
@@ -43,6 +43,6 @@ Coloquei essa atividade por ser interessante fazer sobre PA, que era o que está
 
 ### Calculadora de Horas
 
-Escolhi colocar essa atividade porque acho bem interessante como funciona esses códigos.
+Escolhi colocar essa atividade, pois achei bem interessante criar um aplicativo referente a uma calculadora de horas e como usamos ela.
 
 [CLIQUE AQUI](/Programacao_de_Aplicativos/Calculadora_de_Horas.pdf)

@@ -6,10 +6,10 @@ Meu nome é Stefany Prim, tenho 17 anos e estou cursando o ensino médio com cur
 Esse é o portfólio referente ao 3° ano do ensino médio. 
 
 ### No meu portfolio terá as principais atividades de:
-* BANCO DE DADOS
-* PROGRAMAÇÃO DE APLICATIVOS
 * MODELAGEM DE SISTEMAS
 * TESTE DE SISTEMAS
+* BANCO DE DADOS
+* PROGRAMAÇÃO DE APLICATIVOS
 
 ## Essas são as atividades referentes ao 1° trimestre
 

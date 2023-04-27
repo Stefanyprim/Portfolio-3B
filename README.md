@@ -1,5 +1,5 @@
 # Portfólio Stefany
-Este diretório contém os trabalhos feitos durante o 3° do ensino médio técnico no Senai
+Este diretório contém os trabalhos feitos durante o 3° ano do ensino médio técnico no Senai
 
 Meu nome é Stefany Prim, tenho 17 anos e estou cursando o ensino médio com curso técnico de desenvolvimento de sistemas.
 

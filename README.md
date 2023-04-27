@@ -21,7 +21,7 @@ Essa atividade foi escolhida para o portfólio, pois achei bem legal de fazer e 
 
 [CLIQUE AQUI](Modelagem_de_Sistemas/Diagrama_de_Atividades.pdf)
 
-## Autoria Modelagem de Sistemas
+### Autoria Modelagem de Sistemas
 
 Fiz esse resumo como autoria, para conseguir entender melhor sobre esse assunto.
 

@@ -55,6 +55,6 @@ Escolhi colocar essa atividade, pois achei bem interessante criar um aplicativo 
 
 ### Autoria de Programação de Aplicativos
 
-Escolhi fazer esse resumo sbore a matéria, pois fica mais fácil de aprender.
+Escolhi fazer esse resumo sobre a matéria, como autoria, pois fica mais fácil de aprender.
 
 [CLIQUE AQUI](/Programacao_de_Aplicativos/Autoria_Programacao_de_Aplicativos.pdf)

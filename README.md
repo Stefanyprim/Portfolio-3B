@@ -52,3 +52,9 @@ Coloquei essa atividade por ser bem interessante de fazer, então, realizamos o 
 Escolhi colocar essa atividade, pois achei bem interessante criar um aplicativo referente a uma calculadora de horas e como usamos ela.
 
 [CLIQUE AQUI](/Programacao_de_Aplicativos/Calculadora_de_Horas.pdf)
+
+### Autoria de Programação de Aplicativos
+
+Escolhi fazer esse resumo sbore a matéria, pois fica mais fácil de aprender.
+
+[CLIQUE AQUI](/Autoria_Programacao_de_Aplicativos.pdf)

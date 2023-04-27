@@ -25,7 +25,7 @@ Essa atividade foi escolhida para o portfólio, pois achei bem legal de fazer e 
 
 ### Especificação de Casos te Teste
 
-Escolhi essa atividade, pois foi tranquila de fazer, tivemos que elaborar uma especificação de casos te Teste para o app que criamos.
+Escolhi essa atividade, pois foi tranquila de fazer, onde tivemos que elaborar uma especificação de casos te Teste para o app que criamos.
 
 [CLIQUE AQUI](/Teste_de_Sistemas/Especificação_de_Casos_te_Teste.pdf)
 

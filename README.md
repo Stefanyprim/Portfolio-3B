@@ -66,7 +66,7 @@ Escolhi fazer esse resumo sobre a matéria, como autoria, pois fica mais fácil 
 
 ### Atividades sobre Select
 
-Realizamos duas atividades nessa, em cada uma tinha duas tabelas em um banco de dados, e nas duas tivemos que criar uma consulta que retorasse o que pedia. Por isso, foi bem interessante e importante para treinarmos o select.
+Realizamos duas atividades nessa, em cada uma tinha duas tabelas em um banco de dados, e nas duas tivemos que criar uma consulta que retornasse o que pedia. Por isso, foi bem interessante e importante para treinarmos o select.
 
 [CLIQUE AQUI](Banco_de_Dados/PostgreSQL.1.sql)
 

@@ -14,7 +14,7 @@ Esse é o portfólio referente ao 3° ano do ensino médio.
 
 ## Essas são as atividades referentes ao 1° trimestre
 
-## Atividade Modelagem de Sistemas
+## Atividade de Modelagem de Sistemas
 
 ### Diagrama de Atividades
 
@@ -22,7 +22,7 @@ Essa atividade foi escolhida para o portfólio, pois achei bem legal de fazer e 
 
 [CLIQUE AQUI](Modelagem_de_Sistemas/Diagrama_de_Atividades.pdf)
 
-### Autoria Modelagem de Sistemas
+### Autoria de Modelagem de Sistemas
 
 Fiz esse resumo como autoria, para conseguir entender melhor sobre esse assunto.
 

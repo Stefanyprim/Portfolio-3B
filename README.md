@@ -37,7 +37,7 @@ Escolhi essa atividade, pois foi tranquila de fazer, onde tivemos que elaborar u
 
 [CLIQUE AQUI](/Teste_de_Sistemas/Especificação_de_Casos_te_Teste.pdf)
 
-## Atividades de Banco de Dados
+## Atividade de Banco de Dados
 
 ### Atividade Atividade Serial
 
@@ -63,3 +63,10 @@ Escolhi fazer esse resumo sobre a matéria, como autoria, pois fica mais fácil 
 
 ## Essas são as atividades referentes ao 2° trimestre
 
+## Atividades de Banco de Dados
+
+## Atividade de Desenvolvimento de Sistemas
+
+## Atividade de Programação de Aplicativos
+
+## Atividade de Implantação e Manutenção de Sistemas

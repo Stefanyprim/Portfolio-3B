@@ -105,3 +105,9 @@ Escolhi essa atividade, pois
 [CLIQUE AQUI](Programacao_de_Aplicativos/Função.10.js)
 
 ## Atividade de Teste de Sistemas
+
+### Tipos de Teste de Software - Teste Funcional
+
+[CLIQUE AQUI](
+
+

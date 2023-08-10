@@ -66,7 +66,7 @@ Escolhi fazer esse resumo sobre a matéria, como autoria, pois fica mais fácil 
 
 ### Atividades sobre Select
 
-[CLIQUE AQUI](/Atividades_sobre_Select)
+[CLIQUE AQUI](Atividades_sobre_Select)
 
 ## Atividade de Desenvolvimento de Sistemas
 

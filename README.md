@@ -66,6 +66,8 @@ Escolhi fazer esse resumo sobre a matéria, como autoria, pois fica mais fácil 
 
 ### Atividades sobre Select
 
+Esta foi a atividade escolhida, porque
+
 [CLIQUE AQUI](Banco_de_Dados/PostgreSQL.1.sql)
 
 [CLIQUE AQUI](Banco_de_Dados/PostgreSQL.2.sql)
@@ -74,7 +76,9 @@ Escolhi fazer esse resumo sobre a matéria, como autoria, pois fica mais fácil 
 
 ### Lista Telefônica
 
-[CLIQUE AQUI]
+Escolhi essa atividade, pois
+
+[CLIQUE AQUI](Desenvolvimento_de_Sistemas/Lista_Telefonica.js)
 
 ## Atividade de Programação de Aplicativos
 

@@ -62,7 +62,11 @@ Escolhi fazer esse resumo sobre a matéria, como autoria, pois fica mais fácil 
 
 ## Essas são as atividades referentes ao 2° trimestre
 
-## Atividades de Banco de Dados
+## Atividade de Banco de Dados
+
+### Atividades sobre Select
+
+[CLIQUE AQUI](
 
 ## Atividade de Desenvolvimento de Sistemas
 

@@ -10,6 +10,8 @@ Esse é o portfólio referente ao 3° ano do ensino médio.
 * TESTE DE SISTEMAS
 * BANCO DE DADOS
 * PROGRAMAÇÃO DE APLICATIVOS
+* DESENVOLVIMENTO DE SISTEMAS
+* IMPLANTAÇÃO E MANUTENÇÃO DE SISTEMAS
 
 ## Essas são as atividades referentes ao 1° trimestre
 

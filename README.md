@@ -84,7 +84,7 @@ Escolhi essa atividade, pois tivemos que criar uma função em que a pessoa poss
 
 ### Lógica com JavaScript
 
-Coloquei essa atividade, pois achei muito importante, criamos uma solução para essas 10 funções, e essas atividades me ajudam muito a entender melhor como fazer.
+Coloquei essa atividade, pois achei muito importante, criamos uma solução para essas 10 funções. Assim, essas atividades me ajudam a entender melhor como fazer e a praticar.
 
 [CLIQUE AQUI](Programacao_de_Aplicativos/Função.1.js)
 

@@ -60,3 +60,6 @@ Escolhi colocar essa atividade, pois achei bem interessante criar um aplicativo 
 Escolhi fazer esse resumo sobre a matéria, como autoria, pois fica mais fácil de aprender.
 
 [CLIQUE AQUI](/Programacao_de_Aplicativos/Autoria_Programacao_de_Aplicativos.pdf)
+
+## Essas são as atividades referentes ao 2° trimestre
+

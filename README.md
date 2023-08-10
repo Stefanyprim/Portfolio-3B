@@ -66,7 +66,7 @@ Escolhi fazer esse resumo sobre a matéria, como autoria, pois fica mais fácil 
 
 ### Atividades sobre Select
 
-Esta foi a atividade escolhida, porque
+Realizamos duas atividades nessa, em cada uma tinha duas tabelas em um banco de dados, e nas duas tivemos que criar uma consulta que retorasse o que pedia. Por isso, foi bem interessante e importante para treinarmos o select.
 
 [CLIQUE AQUI](Banco_de_Dados/PostgreSQL.1.sql)
 
@@ -76,13 +76,15 @@ Esta foi a atividade escolhida, porque
 
 ### Lista Telefônica
 
-Escolhi essa atividade, pois
+Escolhi essa atividade, pois tivemos que criar uma função em que a pessoa possa passar o nome de alguém e saber o telefone dela. Portanto, acho muito legal e importate fazer isso, para treinarmos.
 
 [CLIQUE AQUI](Desenvolvimento_de_Sistemas/Lista_Telefonica.js)
 
 ## Atividade de Programação de Aplicativos
 
 ### Lógica com JavaScript
+
+Coloquei essa atividade, pois achei muito importante, criamos uma solução para essas 10 funções, e essas atividades me ajudam muito a entender melhor como fazer.
 
 [CLIQUE AQUI](Programacao_de_Aplicativos/Função.1.js)
 

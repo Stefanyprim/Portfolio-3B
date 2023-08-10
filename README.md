@@ -72,6 +72,10 @@ Escolhi fazer esse resumo sobre a matéria, como autoria, pois fica mais fácil 
 
 ## Atividade de Desenvolvimento de Sistemas
 
+### Lista Telefônica
+
+[CLIQUE AQUI]
+
 ## Atividade de Programação de Aplicativos
 
 ## Atividade de Teste de Sistemas

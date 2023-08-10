@@ -84,6 +84,24 @@ Escolhi essa atividade, pois
 
 ### Lógica com JavaScript
 
-[CLIQUE AQUI](
+[CLIQUE AQUI](Programacao_de_Aplicativos/Função.1.js)
+
+[CLIQUE AQUI](Programacao_de_Aplicativos/Função.2.js)
+
+[CLIQUE AQUI](Programacao_de_Aplicativos/Função.3.js)
+
+[CLIQUE AQUI](Programacao_de_Aplicativos/Função.4.js)
+
+[CLIQUE AQUI](Programacao_de_Aplicativos/Função.5.js)
+
+[CLIQUE AQUI](Programacao_de_Aplicativos/Função.6.js)
+
+[CLIQUE AQUI](Programacao_de_Aplicativos/Função.7.js)
+
+[CLIQUE AQUI](Programacao_de_Aplicativos/Função.8.js)
+
+[CLIQUE AQUI](Programacao_de_Aplicativos/Função.9.js)
+
+[CLIQUE AQUI](Programacao_de_Aplicativos/Função.10.js)
 
 ## Atividade de Teste de Sistemas

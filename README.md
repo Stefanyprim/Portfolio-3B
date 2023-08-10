@@ -82,4 +82,8 @@ Escolhi essa atividade, pois
 
 ## Atividade de Programação de Aplicativos
 
+### Lógica com JavaScript
+
+[CLIQUE AQUI](
+
 ## Atividade de Teste de Sistemas

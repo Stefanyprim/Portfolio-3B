@@ -113,3 +113,7 @@ Coloquei essa atividade, pois achei muito importante, criamos uma solução para
 Essa foi a atividade escolhida, porque criamos um documento sobre o tipo de teste que escolhemos em aula, com sua definição e exemplos de uso. Sendo assim, acho bem importante esse tipo de atividade, para pesquisarmos mais sobre 
 
 [CLIQUE AQUI](Teste_de_Sistemas/Teste_Funcional.pdf)
+
+### Autoria de Teste de Sistemas
+
+[CLIQUE AQUI](Teste_de_Sistemas/

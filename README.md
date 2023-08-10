@@ -108,6 +108,4 @@ Escolhi essa atividade, pois
 
 ### Tipos de Teste de Software - Teste Funcional
 
-[CLIQUE AQUI](
-
-
+[CLIQUE AQUI](Teste_de_Sistemas/Teste_Funcional.pdf)

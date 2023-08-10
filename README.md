@@ -11,7 +11,6 @@ Esse é o portfólio referente ao 3° ano do ensino médio.
 * BANCO DE DADOS
 * PROGRAMAÇÃO DE APLICATIVOS
 * DESENVOLVIMENTO DE SISTEMAS
-* IMPLANTAÇÃO E MANUTENÇÃO DE SISTEMAS
 
 ## Essas são as atividades referentes ao 1° trimestre
 
@@ -69,4 +68,4 @@ Escolhi fazer esse resumo sobre a matéria, como autoria, pois fica mais fácil 
 
 ## Atividade de Programação de Aplicativos
 
-## Atividade de Implantação e Manutenção de Sistemas
+## Atividade de Teste de Sistemas

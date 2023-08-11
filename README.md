@@ -116,4 +116,6 @@ Essa foi a atividade escolhida, porque criamos um documento sobre o tipo de test
 
 ### Autoria de Teste de Sistemas
 
+Fiz esse resumo dos tipos de Teste de Software como autoria, para conseguir entender melhor sobre cada tipo de teste.
+
 [CLIQUE AQUI](Teste_de_Sistemas/Autoria_Teste_de_Sistemas.pdf)

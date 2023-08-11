@@ -116,4 +116,4 @@ Essa foi a atividade escolhida, porque criamos um documento sobre o tipo de test
 
 ### Autoria de Teste de Sistemas
 
-[CLIQUE AQUI](Teste_de_Sistemas/Autoria - Teste de Sistemas.pdf)
+[CLIQUE AQUI](Teste_de_Sistemas/Autoria_Teste_de_Sistemas.pdf)

@@ -108,9 +108,9 @@ Coloquei essa atividade, pois achei muito importante, criamos uma solução para
 
 ### Autoria de Programação de Aplicativos
 
+Escolhi fazer esse resumo sobre JavaScript como autoria, pois fica mais fácil de aprender sobre.
 
-[CLIQUE AQUI](
-
+[CLIQUE AQUI](Programacao_de_Aplicativos/Autoria_Programação_de_Aplicativos.pdf)
 
 ## Atividade de Teste de Sistemas
 

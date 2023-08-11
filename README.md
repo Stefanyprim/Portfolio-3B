@@ -38,7 +38,7 @@ Escolhi essa atividade, pois foi tranquila de fazer, onde tivemos que elaborar u
 
 ## Atividade de Banco de Dados
 
-### Atividade Atividade Serial
+### Atividade Serial
 
 Coloquei essa atividade por ser bem interessante de fazer, então, realizamos o diagrama E-R referente ao banco de dados necessário e o código SQL. Inserimos dados em todas as tabelas, e usamos pelo menos um atributo do tipo serial. Por isso foi bem importante, para conseguirmos entender como usamos o atributo Serial.
 

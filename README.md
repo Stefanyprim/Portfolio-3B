@@ -106,6 +106,12 @@ Coloquei essa atividade, pois achei muito importante, criamos uma solução para
 
 [CLIQUE AQUI](Programacao_de_Aplicativos/Função.10.js)
 
+### Autoria de Programação de Aplicativos
+
+
+[CLIQUE AQUI](
+
+
 ## Atividade de Teste de Sistemas
 
 ### Tipos de Teste de Software - Teste Funcional

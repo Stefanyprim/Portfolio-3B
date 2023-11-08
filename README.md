@@ -1,7 +1,7 @@
 # Portfólio Stefany
 Este diretório contém os trabalhos feitos durante o 3° ano do ensino médio técnico no Senai
 
-Meu nome é Stefany Prim, tenho 17 anos e estou cursando o ensino médio com curso técnico de desenvolvimento de sistemas.
+Meu nome é Stefany Prim, tenho 18 anos e estou cursando o ensino médio com curso técnico de desenvolvimento de sistemas.
 
 Esse é o portfólio referente ao 3° ano do ensino médio. 
 
@@ -125,3 +125,6 @@ Essa foi a atividade escolhida, porque criamos um documento sobre o tipo de test
 Fiz esse resumo dos tipos de Teste de Software como autoria, para conseguir entender melhor sobre cada tipo de teste.
 
 [CLIQUE AQUI](Teste_de_Sistemas/Autoria_Teste_de_Sistemas.pdf)
+
+## Essas são as atividades referentes ao 3° trimestre
+

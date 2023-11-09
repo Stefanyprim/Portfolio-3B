@@ -22,7 +22,7 @@ Essa atividade foi escolhida para o portfólio, pois achei bem legal de fazer e 
 
 [CLIQUE AQUI](Modelagem_de_Sistemas/Diagrama_de_Atividades.pdf)
 
-### Autoria de Modelagem de Sistemas
+## Autoria de Modelagem de Sistemas
 
 Fiz esse resumo como autoria, para conseguir entender melhor sobre esse assunto.
 
@@ -54,7 +54,7 @@ Escolhi colocar essa atividade, pois achei bem interessante criar um aplicativo 
 
 [CLIQUE AQUI](/Programacao_de_Aplicativos/Calculadora_de_Horas.pdf)
 
-### Autoria de Programação de Aplicativos
+## Autoria de Programação de Aplicativos
 
 Escolhi fazer esse resumo sobre a matéria, como autoria, pois fica mais fácil de aprender.
 
@@ -106,7 +106,7 @@ Coloquei essa atividade, pois achei muito importante, criamos uma solução para
 
 [CLIQUE AQUI](Programacao_de_Aplicativos/Função.10.js)
 
-### Autoria de Programação de Aplicativos
+## Autoria de Programação de Aplicativos
 
 Escolhi fazer esse resumo sobre JavaScript como autoria, pois fica mais fácil de aprender sobre.
 
@@ -120,7 +120,7 @@ Essa foi a atividade escolhida, porque criamos um documento sobre o tipo de test
 
 [CLIQUE AQUI](Teste_de_Sistemas/Teste_Funcional.pdf)
 
-### Autoria de Teste de Sistemas
+## Autoria de Teste de Sistemas
 
 Fiz esse resumo dos tipos de Teste de Software como autoria, para conseguir entender melhor sobre cada tipo de teste.
 

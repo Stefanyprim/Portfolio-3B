@@ -138,5 +138,11 @@ Essa atividade foi escolhida, pois
 
 ## Atividade de Programação de Aplicativos
 
+### Meu App (React Native)
+
+Escolhi essa atividade, pois
+
+[CLIQUE AQUI]
+
 
 

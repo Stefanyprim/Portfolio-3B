@@ -146,7 +146,7 @@ Essa atividade foi escolhida, pois
 
 Escolhi essa atividade, pois
 
-[CLIQUE AQUI]()
+[CLIQUE AQUI](Programacao_de_Aplicativos/Meu_App)
 
 ## Autoria de 
 

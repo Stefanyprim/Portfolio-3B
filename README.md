@@ -142,16 +142,16 @@ Essa atividade foi escolhida, pois
 
 ## Atividade de Programação de Aplicativos
 
-### Meu App (React Native)
+### Meu App 
 
 Escolhi essa atividade, pois
 
-[CLIQUE AQUI]
+[CLIQUE AQUI]()
 
 ## Autoria de 
 
 Fiz 
 
-[CLIQUE AQUI]
+[CLIQUE AQUI]()
 
 

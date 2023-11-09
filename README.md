@@ -136,7 +136,7 @@ Essa atividade foi escolhida, pois
 
 [CLIQUE AQUI](https://github.com/y-leandro/listatarefa)
 [CLIQUE AQUI](FOCUS.IO.pdf)
-[CLIQUE AQUI]()
+[CLIQUE AQUI](Focus.pdf)
 
 ## Atividade de Programação de Aplicativos
 

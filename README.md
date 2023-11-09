@@ -135,8 +135,10 @@ Fiz esse resumo dos tipos de Teste de Software como autoria, para conseguir ente
 Essa atividade foi escolhida, pois 
 
 [CLIQUE AQUI](https://github.com/y-leandro/listatarefa)
-[CLIQUE AQUI](FOCUS.IO.pdf)
-[CLIQUE AQUI](Focus.pdf)
+
+[CLIQUE AQUI](/Desenvolvimento_de_Sistemas/FOCUS.IO.pdf)
+
+[CLIQUE AQUI](/Desenvolvimento_de_Sistemas/Focus.pdf)
 
 ## Atividade de Programação de Aplicativos
 

@@ -128,3 +128,15 @@ Fiz esse resumo dos tipos de Teste de Software como autoria, para conseguir ente
 
 ## Essas são as atividades referentes ao 3° trimestre
 
+## Atividade de Desenvolvimento de Sistemas
+
+### Cliente X
+
+Essa atividade foi escolhida, pois 
+
+[CLIQUE AQUI]
+
+## Atividade de Programação de Aplicativos
+
+
+

@@ -133,6 +133,7 @@ Fiz esse resumo dos tipos de Teste de Software como autoria, para conseguir ente
 ### Cliente X
 
 Escolhi essa atividade, pois
+
 [CLIQUE AQUI](https://github.com/y-leandro/listatarefa)
 
 [CLIQUE AQUI](/Desenvolvimento_de_Sistemas/FOCUS.IO.pdf)

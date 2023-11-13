@@ -132,8 +132,7 @@ Fiz esse resumo dos tipos de Teste de Software como autoria, para conseguir ente
 
 ### Cliente X
 
-Essa atividade foi escolhida, pois 
-
+Escolhi essa atividade, pois
 [CLIQUE AQUI](https://github.com/y-leandro/listatarefa)
 
 [CLIQUE AQUI](/Desenvolvimento_de_Sistemas/FOCUS.IO.pdf)
@@ -144,7 +143,7 @@ Essa atividade foi escolhida, pois
 
 ### Meu App 
 
-Escolhi essa atividade, pois
+Essa atividade foi escolhida, pois criamos um aplicativo com 5 telas, com animação e imagens. Assim, essa atividade me ajudou a entender melhor como criar um aplicativo e a praticar.
 
 [CLIQUE AQUI](Programacao_de_Aplicativos/Meu_App)
 

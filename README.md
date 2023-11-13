@@ -84,7 +84,7 @@ Escolhi essa atividade, pois tivemos que criar uma função em que a pessoa poss
 
 ### Lógica com JavaScript
 
-Coloquei essa atividade, pois achei muito importante, criamos uma solução para essas 10 funções. Assim, essas atividades me ajudam a entender melhor como fazer e a praticar.
+Coloquei essa atividade, pois achei muito importante, criamos uma solução para essas 10 funções. Sendo assim, essas atividades me ajudam a entender melhor como fazer e a praticar.
 
 [CLIQUE AQUI](Programacao_de_Aplicativos/Função.1.js)
 
@@ -144,7 +144,7 @@ Escolhi essa atividade, pois
 
 ### Meu App 
 
-Essa atividade foi escolhida, pois criamos um aplicativo com 5 telas, com animação e imagens. Assim, essa atividade me ajudou a entender melhor como criar um aplicativo e a praticar.
+Escolhi essa atividade, pois criamos um aplicativo com 5 telas, com animação e imagens. Sendo assim, essa atividade me ajudou a entender melhor como criar um aplicativo e a praticar.
 
 [CLIQUE AQUI](Programacao_de_Aplicativos/Meu_App)
 

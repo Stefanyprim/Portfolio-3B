@@ -132,7 +132,7 @@ Fiz esse resumo dos tipos de Teste de Software como autoria, para conseguir ente
 
 ### Cliente X
 
-Escolhi essa atividade, pois
+Escolhi essa atividade, pois fomos divididos em grupos, e cada grupo teria que criar um aplicativo sobre o que cada cliente passava para eles, e por fim, o cliente deveria aprovar o aplicativo. Sendo assim, essa atividade me ajudou a entender melhor como criar um aplicativo e a praticar em grupo.
 
 [CLIQUE AQUI](https://github.com/y-leandro/listatarefa)
 

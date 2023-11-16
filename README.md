@@ -146,7 +146,7 @@ Fomos divididos em grupos, e cada grupo teria que criar um aplicativo, sobre o q
 
 Escolhi essa atividade, pois criamos um aplicativo com 5 telas, com animação e imagens. Sendo assim, essa atividade me ajudou a entender melhor como criar um aplicativo e a praticar.
 
-[CLIQUE AQUI](Programacao_de_Aplicativos/Meu_App)
+[CLIQUE AQUI]([Programacao_de_Aplicativos/Meu_App](https://github.com/Stefanyprim/login))
 
 ## Autoria do Mundo Senai
 
